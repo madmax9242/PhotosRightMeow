@@ -4,7 +4,7 @@ require 'bcrypt'
 # Open a database connection 
 ActiveRecord::Base.establish_connection(
 	:adapter => 'postgresql',
-	:host => 'localhost',
+	:host => '',
 	:database => 'right_meow'
 )
 
