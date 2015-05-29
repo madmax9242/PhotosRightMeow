@@ -51,6 +51,3 @@ DEPENDENCIES
   bcrypt
   sinatra
   sinatra-contrib
-
-BUNDLED WITH
-   1.10.0
